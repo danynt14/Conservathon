@@ -1,6 +1,6 @@
 {
-    "title": "Landing Page",
-    "name": "startbootstrap-landing-page",
+    "title": "Smurfs",
+    "name": "Conservathon",
     "version": "5.0.8",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
